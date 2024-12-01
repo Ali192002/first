@@ -1,0 +1,1 @@
+ls command is when u list and cat command reads the files
